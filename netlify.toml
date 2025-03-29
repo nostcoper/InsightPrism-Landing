@@ -3,5 +3,5 @@
   NODE_OPTIONS = "--openssl-legacy-provider"
   
 [build]
-  command = "npm install --legacy-peer-deps && npm install @babel/core@^7.16.0 babel-preset-react-app@latest --legacy-peer-deps && npm run build"
+  command = "npm run build"
   publish = "build"
