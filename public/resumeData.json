@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"InsigthPrism",
-    "description":"INSIGHTPRISM es una herramienta computacional que combina modelamiento 3D y deep learning para apoyar el análisis e investigación del cáncer de mama. Permite importar imágenes médicas en formato DICOM y visualizar en 3D el caso para un estudio más detallado.",
+    "description":"INSIGHTPRISM es una herramienta computacional que combina modelamiento 3D y aprendizaje profundo para apoyar el análisis e investigación del cáncer de mama. Permite importar imágenes médicas en formato DICOM y visualizar en 3D el caso para un estudio más detallado.",
     "image":"1722643852507.jpeg",
     "bio":"Carlos Andrés Serrato Echeverry, ingeniero en formación en Multimedia y Sistemas en la Universidad San Buenaventura Cali. Miembro del semillero PADIA y apasionado por la inteligencia artificial, el modelamiento 3D y la innovación tecnológica. INSIGHTPRISM, su proyecto de grado, combina Deep Learning y visualización médica para transformar el análisis de imágenes DICOM.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
