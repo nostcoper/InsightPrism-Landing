@@ -1,6 +1,5 @@
 [build.environment]
   NPM_FLAGS = "--legacy-peer-deps"
-  NODE_OPTIONS = "--openssl-legacy-provider"
   
 [build]
   command = "npm run build"
